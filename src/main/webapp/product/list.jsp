@@ -10,13 +10,6 @@
 <div class="container">
     <h1>List Product</h1>
     <a href="/products?action=create">Create new product</a><br>
-        <div>
-            <label for="findByName"><a href="/products?action=findByName">Find by name</a></label><br>
-            <input name="findByName" type="text" size="30" id="findByName" placeholder="Enter name product">
-        </div>
-    </form>
-
-
     <table class="table table-striped">
         <thead>
         <tr>
